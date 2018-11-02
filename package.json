@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mjgibson1121/pcf_test_project#readme",
 
   "engines": {
-      "node": "0.12.7",
-      "npm": "2.7.4"
+      "node": "10.13.07",
+      "npm": "6.4.1"
     }
 }
