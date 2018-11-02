@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mjgibson1121/pcf_test_project/issues"
   },
-  "homepage": "https://github.com/mjgibson1121/pcf_test_project#readme"
+  "homepage": "https://github.com/mjgibson1121/pcf_test_project#readme",
+
+  "engines": {
+      "node": "0.12.7",
+      "npm": "2.7.4"
+    }
 }
